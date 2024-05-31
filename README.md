@@ -1,7 +1,3 @@
----
-license: llama2
----
-
 <div align="center">
   <a href="https://huggingface.co/DSMI/LLaMA-E/tree/main#/">
     <img src="https://huggingface.co/DSMI/LLaMA-E/resolve/main/LLaMA-E.png?download=true" alt="LLaMA-E">
