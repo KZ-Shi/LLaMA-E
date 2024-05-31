@@ -43,4 +43,4 @@ Our code for the inference is based on the [tloen][tloen].
 
 [license]: <https://ai.meta.com/llama/license/#/>
 [paper]: <https://arxiv.org/abs/2308.04913#/>
-[tloen]: <https://huggingface.co/tloen/alpaca-lora-7b#/># LLaMA-E
+[tloen]: <https://huggingface.co/tloen/alpaca-lora-7b#/>
